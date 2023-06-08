@@ -13,6 +13,5 @@ public class Ex1142 {
 
             c += 4;
         }
-
     }
 }
